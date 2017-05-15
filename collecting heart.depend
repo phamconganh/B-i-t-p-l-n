@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1490777695 source:c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\painter.cpp
+	<cmath>
+	<iostream>
+	<SDL_image.h>
+	"painter.h"
+
+1490776271 c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\painter.h
+	<string>
+	<SDL.h>
+
+1490865736 source:c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"painter.h"
+	"number.h"
+	"loadheart.h"
+
+1490779204 source:c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\loadheart.cpp
+	"loadheart.h"
+
+1490779203 c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\loadheart.h
+	<vector>
+	<SDL.h>
+	"painter.h"
+
+1490723835 source:c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\number.cpp
+	<iostream>
+	<SDL_ttf.h>
+	"number.h"
+
+1490723853 c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\number.h
+	<SDL.h>
+	<iostream>
+
+1490722073 c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\painter.cpp
+	<cmath>
+	<iostream>
+	<SDL_image.h>
+	"painter.h"
+
+1490721670 c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\number.cpp
+	<iostream>
+	<SDL_ttf.h>
+	"painter.h"
+	"number.h"
+
+1493698334 source:c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\main.cpp
+	<iostream>
+	<ctime>
+	"painter.h"
+	"number.h"
+	"music.h"
+	"check and init.h"
+
+1493274558 c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\painter.h
+	<iostream>
+	<SDL.h>
+
+1493275576 c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\number.h
+	<sstream>
+
+1491568016 c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\loadheart.h
+	<vector>
+	<SDL.h>
+	"painter.h"
+
+1493274776 source:c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\painter.cpp
+	<SDL_image.h>
+	"painter.h"
+	"check and init.h"
+
+1491568016 source:c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\loadheart.cpp
+	"loadheart.h"
+
+1493275576 source:c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\number.cpp
+	<SDL_ttf.h>
+	"number.h"
+	"check and init.h"
+
+1493271203 c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\music.h
+	<iostream>
+	<SDL_mixer.h>
+
+1493274543 source:c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\music.cpp
+	"music.h"
+	"check and init.h"
+
+1492446181 source:c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\check and init.cpp
+	"check and init.h"
+
+1492445814 c:\users\cong anh\downloads\hoc tap\lap trinh va giai thuat\c++ new\cac cau truc lenh\collecting heart\collecting heart\check and init.h
+	<iostream>
+	<SDL.h>
+
